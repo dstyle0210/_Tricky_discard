@@ -5,7 +5,7 @@
 변수명 TRICTY
 약자는.. $Tricty?
 
-## 공통222
+## 공통222333
 _Tricty.browser
 _Tricty.head
 _Tricty.html
