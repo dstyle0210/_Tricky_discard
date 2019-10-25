@@ -1,6 +1,8 @@
 export class TRICKY {
-    public domain:string;
+    public domain:string; 
+    public test:string;
     constructor(){
-        this.domain = "domain2";
+        this.domain = "domain";
+
     }
 }

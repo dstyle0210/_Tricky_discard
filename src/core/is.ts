@@ -2,6 +2,7 @@ import { TRICKY } from './tricky';
 
 class TRICKY_IS extends TRICKY {
     name:string;
+    name2:string;
     constructor(name) { 
         super();
         this.name = name; 

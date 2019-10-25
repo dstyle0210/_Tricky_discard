@@ -10,7 +10,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 var TRICKY = function TRICKY() {
   _classCallCheck(this, TRICKY);
 
-  this.domain = "domain2";
+  this.domain = "domain";
 };
 
 exports.TRICKY = TRICKY;
